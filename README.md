@@ -20,3 +20,5 @@ This is a voluntary survey, which distributed to students enrolled in either the
 ### Health Survey Data:
 This is a voluntary survey, which distributed to students enrolled in either the Principles of Microeonomics or Macroeoncomics classes from 2016 spring until the recent semester.  Students report their height, weight, perferences on food consumption, their family health backgroung, etc.
 
+#### Note:
+The data is collected from students voluntarily and anonymously.  
