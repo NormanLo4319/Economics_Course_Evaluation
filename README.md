@@ -15,10 +15,10 @@ The objective for this project is to find any meaningful results from the survey
 The class performance data is the aggregated data from each class taught at different institution between 2016 spring semester and the recent semester.  It records the individual student's final grade, attendence, institution, semester, year, and the digital platform used for the class. This data is will be the key for analyzing students' performance with the given features from other data set.
 
 ### Economics Course Survey Data:
-This is a voluntary survey, which distributed to students enrolled in either the Principles of Microeonomics or Macroeoncomics classes from 2016 spring until the recent semester.  The survey data contains information about students' status, their options about using the online digital tools, how they think about the course overall, etc.
+This is a voluntary survey, which distributed to students enrolled in either the Principles of Microeonomics and Macroeoncomics classes from 2016 spring until the recent semester.  The survey data contains information about students' status, their options about using the online digital tools, how they think about the course overall, etc.
 
 ### Health Survey Data:
-This is a voluntary survey, which distributed to students enrolled in either the Principles of Microeonomics or Macroeoncomics classes from 2016 spring until the recent semester.  Students report their height, weight, perferences on food consumption, their family health backgroung, etc.
+This is a voluntary survey, which distributed to students enrolled in either the Principles of Microeonomics and Macroeoncomics classes from 2016 spring until the recent semester.  Students report their height, weight, perferences on food consumption, their family health backgroung, etc.
 
 #### Note:
 The data is collected from students voluntarily and anonymously.  
