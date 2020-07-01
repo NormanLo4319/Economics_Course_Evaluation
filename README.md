@@ -20,5 +20,8 @@ This is a voluntary survey, which distributed to students enrolled in either the
 ### Health Survey Data:
 This is a voluntary survey, which distributed to students enrolled in either the Principles of Microeonomics and Macroeoncomics classes from 2016 spring until the recent semester.  Students report their height, weight, perferences on food consumption, their family health backgroung, etc.
 
+### Aggregation Data:
+The aggregation data set is an inner-joined data set of the Class Performance, Economics Survey, and Health Survey data. The aggregate data set does not contain all the records from the three data sets. The data has been cleaned and all NAs are removed or replaced.
+
 #### Note:
 The data is collected from students voluntarily and anonymously.  
