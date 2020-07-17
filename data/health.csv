@@ -2,9 +2,7 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 68968,5,9,150.0,2 to 4 days a week,20 - 30 minutes,Sometime,1,2,3,4,Yes,Yes,No
 46998,5,4,160.0,2 to 4 days a week,30 - 40 minutes,Sometime,3,1,4,2,Yes,Yes,Not sure
 79024,5,9,150.0,I don't regularly exercise,Over an hour,Not too often,1,2,3,4,Yes,Yes,No
-28231,6,0,250.0,I don't regularly exercise,20 - 30 minutes,Not too often,1,2,4,3,Yes,Yes,No
 64508,5,5,125.0,5 to 7 days a week,Over an hour,Always,1,2,4,3,Yes,Yes,Yes
-54304,6,8,230.0,5 to 7 days a week,Over an hour,Often,2,3,4,1,Yes,Yes,No
 85016,5,11,180.0,Once a week,30 - 40 minutes,Often,1,2,4,3,Yes,Yes,No
 36853,4,10,105.0,2 to 4 days a week,Over an hour,Not too often,1,2,4,3,Yes,Yes,No
 65795,6,10,130.0,2 to 4 days a week,Over an hour,Sometime,1,4,2,3,Yes,Yes,No
@@ -21,8 +19,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 50901,5,10,184.0,5 to 7 days a week,40 - 50 minutes,Often,1,3,2,4,Yes,Yes,Not sure
 15752,5,2,126.0,I don't regularly exercise,20 - 30 minutes,Not too often,4,1,2,3,Yes,Yes,Yes
 74776,5,8,119.0,Once a week,Over an hour,Never,1,2,3,4,Yes,No,No
-46067,5,11,210.0,Once a week,Over an hour,Never,3,1,4,2,Yes,Yes,Not sure
-15366,11,6,200.0,5 to 7 days a week,Over an hour,Always,3,1,2,4,Yes,Yes,Yes
 70379,5,4,135.0,2 to 4 days a week,40 - 50 minutes,Often,3,2,1,4,Yes,Yes,No
 57716,5,0,171.0,Once a week,30 - 40 minutes,Not too often,1,3,4,2,Yes,Yes,No
 47811,5,4,120.0,2 to 4 days a week,Over an hour,Often,1,4,3,2,Yes,Yes,No
@@ -72,7 +68,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 49852,6,1,193.0,5 to 7 days a week,Over an hour,Never,1,2,4,3,Yes,Yes,No
 18949,5,10,170.0,Once a week,20 - 30 minutes,Never,2,1,3,4,No,Yes,Not sure
 47632,6,1,200.0,2 to 4 days a week,40 - 50 minutes,Not too often,2,1,3,4,Yes,Yes,No
-59434,6,3,209.0,2 to 4 days a week,Over an hour,Sometime,1,2,3,4,Yes,Yes,No
 77939,5,5,99.0,I don't regularly exercise,40 - 50 minutes,Not too often,4,2,3,1,Yes,Yes,Yes
 64772,5,7,132.0,5 to 7 days a week,Over an hour,Not too often,1,3,4,2,Yes,Yes,No
 97273,5,5,118.0,2 to 4 days a week,30 - 40 minutes,Sometime,4,1,2,3,Yes,Yes,Not sure
@@ -80,7 +75,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 01769,5,9,145.0,2 to 4 days a week,20 - 30 minutes,Often,1,3,2,4,Yes,Yes,Yes
 90520,6,2,160.0,I don't regularly exercise,20 - 30 minutes,Sometime,1,2,3,4,Yes,Yes,No
 90801,5,5,160.0,I don't regularly exercise,10 - 20 minutes,Sometime,3,4,2,1,Yes,Yes,Not sure
-27232,5,8,240.0,2 to 4 days a week,30 - 40 minutes,Never,1,2,4,3,Yes,No,Yes
 07662,5,11,139.0,5 to 7 days a week,Over an hour,Always,3,1,2,4,Yes,Yes,No
 50326,5,6,121.0,I don't regularly exercise,20 - 30 minutes,Often,3,2,1,4,Yes,Yes,No
 51254,5,8,140.0,2 to 4 days a week,Over an hour,Often,2,4,1,3,Yes,Yes,Yes
@@ -88,7 +82,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 74972,5,11,185.0,I don't regularly exercise,20 - 30 minutes,Not too often,3,4,2,1,Yes,Yes,No
 88468,5,10,155.0,2 to 4 days a week,Over an hour,Often,1,3,2,4,Yes,Yes,Yes
 47068,5,6,119.0,Once a week,20 - 30 minutes,Not too often,1,2,3,4,Yes,Yes,No
-92121,7,7,159.0,2 to 4 days a week,Over an hour,Sometime,2,4,3,1,Yes,Yes,Yes
 37353,5,7,155.0,Once a week,30 - 40 minutes,Sometime,1,2,4,3,Yes,Yes,No
 56815,5,7,140.0,I don't regularly exercise,Over an hour,Often,1,2,4,3,Yes,Yes,No
 40612,6,4,195.0,5 to 7 days a week,Over an hour,Sometime,2,3,1,4,Yes,Yes,No
@@ -115,7 +108,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 96220,5,7,134.0,2 to 4 days a week,20 - 30 minutes,Often,2,4,3,1,Yes,Yes,No
 80524,5,8,140.0,Once a week,40 - 50 minutes,Sometime,2,1,3,4,Yes,Yes,Yes
 31002,5,6,180.0,Once a week,20 - 30 minutes,Sometime,3,1,2,4,Yes,Yes,No
-73698,5,8,225.0,2 to 4 days a week,30 - 40 minutes,Not too often,2,3,4,1,Yes,Yes,No
 48124,5,3,93.0,2 to 4 days a week,30 - 40 minutes,Not too often,4,3,1,2,Yes,Yes,No
 67062,5,8,170.0,Once a week,10 - 20 minutes,Never,2,4,3,1,Yes,Yes,No
 84246,5,9,170.0,5 to 7 days a week,Over an hour,Often,3,2,1,4,Yes,Yes,Yes
@@ -124,7 +116,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 05732,5,5,120.0,2 to 4 days a week,20 - 30 minutes,Sometime,4,3,1,2,Yes,Yes,No
 22840,5,4,200.0,I don't regularly exercise,Over an hour,Not too often,1,3,2,4,Yes,Yes,No
 80001,5,8,147.0,2 to 4 days a week,Over an hour,Often,1,3,2,4,Yes,Yes,No
-11507,5,9,245.0,Once a week,Over an hour,Often,1,3,2,4,Yes,Yes,Yes
 27301,5,6,148.0,2 to 4 days a week,20 - 30 minutes,Sometime,1,2,3,4,Yes,Yes,No
 00459,6,0,190.0,2 to 4 days a week,Over an hour,Sometime,1,3,2,4,Yes,Yes,No
 60163,6,0,120.0,Once a week,20 - 30 minutes,Sometime,3,1,2,4,Yes,Yes,No
@@ -148,7 +139,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 71018,5,6,127.0,2 to 4 days a week,10 - 20 minutes,Always,1,3,4,2,Yes,Yes,Yes
 67812,5,4,140.0,2 to 4 days a week,40 - 50 minutes,Sometime,3,2,1,4,Yes,Yes,No
 75193,5,0,110.0,5 to 7 days a week,40 - 50 minutes,Sometime,3,4,2,1,Yes,Yes,No
-59020,6,0,275.0,2 to 4 days a week,Over an hour,Sometime,4,1,2,3,No,No,Yes
 53003,5,5,112.0,2 to 4 days a week,30 - 40 minutes,Sometime,4,1,3,2,Yes,Yes,No
 82224,5,3,165.0,I don't regularly exercise,40 - 50 minutes,Sometime,3,4,2,1,Yes,Yes,Yes
 52299,5,11,170.0,2 to 4 days a week,30 - 40 minutes,Always,3,2,1,4,Yes,Yes,No
@@ -168,14 +158,12 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 66383,5,7,165.0,5 to 7 days a week,Over an hour,Often,1,2,3,4,Yes,Yes,No
 59951,6,11,180.0,2 to 4 days a week,30 - 40 minutes,Not too often,1,2,4,3,Yes,Yes,Yes
 36746,5,4,127.0,2 to 4 days a week,40 - 50 minutes,Often,2,4,3,1,Yes,Yes,Yes
-48419,5,10,230.0,Once a week,40 - 50 minutes,Sometime,2,4,3,1,Yes,Yes,No
 65026,5,3,112.0,2 to 4 days a week,30 - 40 minutes,Sometime,1,4,2,3,Yes,Yes,No
 95188,5,3,157.0,2 to 4 days a week,Over an hour,Often,4,3,1,2,Yes,Yes,No
 71766,5,5,111.0,2 to 4 days a week,Over an hour,Always,2,3,1,4,Yes,Yes,Yes
 33525,5,1,90.0,Once a week,30 - 40 minutes,Not too often,1,4,2,3,Yes,Yes,Yes
 79631,5,8,156.0,2 to 4 days a week,Over an hour,Sometime,4,3,1,2,Yes,Yes,No
 50626,5,0,175.0,I don't regularly exercise,40 - 50 minutes,Not too often,1,2,3,4,Yes,Yes,No
-54304,6,8,230.0,5 to 7 days a week,Over an hour,Always,3,1,4,2,Yes,Yes,No
 15636,5,7,131.0,I don't regularly exercise,20 - 30 minutes,Sometime,4,3,2,1,Yes,Yes,No
 42206,4,10,155.0,I don't regularly exercise,30 - 40 minutes,Sometime,1,3,2,4,Yes,Yes,Yes
 90814,5,4,101.0,I don't regularly exercise,30 - 40 minutes,Not too often,4,3,2,1,Yes,No,No
@@ -192,31 +180,26 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 65504,5,5,143.0,2 to 4 days a week,Over an hour,Sometime,1,3,2,4,Yes,Yes,Not sure
 51747,5,4,130.0,2 to 4 days a week,30 - 40 minutes,Not too often,1,2,4,3,Yes,Yes,No
 54590,5,11,165.0,2 to 4 days a week,Over an hour,Sometime,1,2,3,4,Yes,Yes,No
-57437,5,10,232.0,2 to 4 days a week,30 - 40 minutes,Not too often,1,2,3,4,No,Yes,No
 68609,5,2,98.0,I don't regularly exercise,20 - 30 minutes,Never,4,2,1,3,Yes,Yes,Yes
 72416,5,5,55.0,I don't regularly exercise,10 - 20 minutes,Not too often,1,2,4,3,Yes,Yes,No
 59118,5,6,140.0,2 to 4 days a week,Over an hour,Sometime,2,1,4,3,Yes,Yes,No
 57554,5,2,150.0,2 to 4 days a week,Over an hour,Sometime,2,1,3,4,Yes,Yes,Yes
 24114,5,8,125.0,Once a week,20 - 30 minutes,Sometime,1,4,3,2,Yes,Yes,No
 60999,5,4,130.0,2 to 4 days a week,20 - 30 minutes,Sometime,1,3,2,4,Yes,Yes,No
-48725,7,7,102.0,Once a week,20 - 30 minutes,Sometime,1,2,3,4,Yes,Yes,No
 62302,5,8,150.0,Once a week,Over an hour,Sometime,1,3,2,4,Yes,Yes,No
 87959,5,11,114.0,5 to 7 days a week,Over an hour,Sometime,1,3,2,4,Yes,Yes,No
 67436,5,4,125.0,2 to 4 days a week,Over an hour,Always,3,2,4,1,Yes,Yes,Yes
 60400,5,2,150.0,I don't regularly exercise,20 - 30 minutes,Often,4,2,3,1,Yes,Yes,Yes
 55327,5,11,175.0,5 to 7 days a week,Over an hour,Not too often,1,2,4,3,Yes,Yes,No
 63204,6,0,145.0,I don't regularly exercise,20 - 30 minutes,Not too often,1,3,2,4,Yes,Yes,Not sure
-50819,7,9,145.0,2 to 4 days a week,40 - 50 minutes,Often,1,4,2,3,Yes,Yes,No
 63559,5,10,148.0,5 to 7 days a week,30 - 40 minutes,Often,1,3,2,4,Yes,Yes,Yes
 74674,5,10,160.0,2 to 4 days a week,Over an hour,Not too often,1,2,3,4,Yes,Yes,No
 25156,4,10,126.0,5 to 7 days a week,30 - 40 minutes,Often,1,3,2,4,Yes,Yes,Yes
 64131,5,0,105.0,2 to 4 days a week,Over an hour,Often,2,1,4,3,Yes,Yes,No
 67230,5,4,112.0,I don't regularly exercise,20 - 30 minutes,Sometime,2,1,3,4,Yes,Yes,No
 70694,5,5,150.0,I don't regularly exercise,30 - 40 minutes,Never,4,3,1,2,Yes,No,Not sure
-07086,6,0,220.0,5 to 7 days a week,Over an hour,Always,3,1,2,4,Yes,Yes,No
 77115,5,7,137.0,2 to 4 days a week,Over an hour,Often,4,1,2,3,Yes,Yes,No
 82731,5,10,150.0,2 to 4 days a week,30 - 40 minutes,Often,1,3,2,4,Yes,Yes,No
-18853,6,2,210.0,2 to 4 days a week,40 - 50 minutes,Often,1,3,2,4,Yes,Yes,No
 09091,5,9,163.0,2 to 4 days a week,Over an hour,Always,2,1,3,4,Yes,Yes,No
 77620,5,7,150.0,2 to 4 days a week,20 - 30 minutes,Sometime,4,2,3,1,No,Yes,No
 93246,6,0,114.0,I don't regularly exercise,10 - 20 minutes,Not too often,1,2,3,4,Yes,Yes,No
@@ -245,11 +228,9 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 92996,6,0,192.0,5 to 7 days a week,40 - 50 minutes,Often,2,4,1,3,Yes,Yes,No
 14801,6,2,165.0,2 to 4 days a week,40 - 50 minutes,Sometime,1,4,2,3,Yes,Yes,No
 81040,5,9,160.0,Once a week,30 - 40 minutes,Often,3,1,2,4,Yes,Yes,No
-62596,6,1,220.0,2 to 4 days a week,Over an hour,Not too often,1,3,4,2,Yes,Yes,No
 80692,5,9,140.0,5 to 7 days a week,20 - 30 minutes,Always,1,3,2,4,Yes,Yes,No
 73291,5,2,140.0,Once a week,40 - 50 minutes,Sometime,1,2,3,4,Yes,Yes,No
 35617,5,3,110.0,2 to 4 days a week,Over an hour,Often,3,1,4,2,Yes,Yes,No
-11085,11,5,176.0,2 to 4 days a week,Over an hour,Sometime,2,1,3,4,Yes,Yes,No
 79544,5,5,140.0,Once a week,40 - 50 minutes,Sometime,3,2,1,4,Yes,Yes,No
 10676,5,1,130.0,2 to 4 days a week,Over an hour,Often,1,2,4,3,Yes,Yes,Yes
 43256,6,0,140.0,Once a week,30 - 40 minutes,Sometime,1,4,2,3,Yes,Yes,No
@@ -304,13 +285,11 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 27967,5,2,120.0,I don't regularly exercise,30 - 40 minutes,Not too often,1,2,3,4,Yes,Yes,No
 01365,5,8,165.0,5 to 7 days a week,40 - 50 minutes,Never,1,3,2,4,Yes,Yes,Yes
 01430,5,8,140.0,2 to 4 days a week,20 - 30 minutes,Sometime,1,3,2,4,Yes,Yes,Yes
-14123,6,5,235.0,2 to 4 days a week,Over an hour,Often,1,4,3,2,Yes,Yes,Yes
 27732,5,2,133.0,I don't regularly exercise,20 - 30 minutes,Not too often,1,2,4,3,Yes,Yes,No
 31909,5,2,114.0,2 to 4 days a week,40 - 50 minutes,Sometime,2,1,3,4,Yes,Yes,No
 15172,5,5,135.0,I don't regularly exercise,Over an hour,Often,2,4,1,3,Yes,Yes,No
 32905,5,6,112.0,2 to 4 days a week,Over an hour,Sometime,1,4,2,3,Yes,Yes,No
 57897,5,3,110.0,I don't regularly exercise,10 - 20 minutes,Never,1,3,2,4,Yes,Yes,Yes
-59020,6,0,265.0,2 to 4 days a week,40 - 50 minutes,Sometime,1,3,2,4,Yes,No,Not sure
 95714,5,7,150.0,2 to 4 days a week,40 - 50 minutes,Sometime,2,1,3,4,Yes,Yes,No
 36426,5,6,118.0,I don't regularly exercise,20 - 30 minutes,Not too often,1,2,4,3,Yes,Yes,No
 73136,5,8,187.0,I don't regularly exercise,30 - 40 minutes,Often,2,1,3,4,Yes,Yes,No
@@ -319,16 +298,12 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 48689,5,7,157.0,2 to 4 days a week,10 - 20 minutes,Not too often,3,1,2,4,Yes,Yes,No
 71233,5,4,180.0,I don't regularly exercise,40 - 50 minutes,Not too often,2,1,4,3,Yes,Yes,No
 97795,5,10,125.0,Once a week,40 - 50 minutes,Never,1,2,4,3,Yes,Yes,No
-53388,6,3,230.0,2 to 4 days a week,Over an hour,Sometime,4,3,2,1,Yes,Yes,No
 37599,5,4,124.0,2 to 4 days a week,Over an hour,Not too often,2,1,3,4,Yes,Yes,No
 21832,5,10,170.0,5 to 7 days a week,Over an hour,Sometime,1,3,2,4,Yes,Yes,No
-74612,6,1,260.0,I don't regularly exercise,20 - 30 minutes,Not too often,2,3,4,1,Yes,Yes,No
 70351,4,8,110.0,2 to 4 days a week,Over an hour,Not too often,2,1,3,4,Yes,Yes,Yes
-50691,5,8,208.0,Once a week,20 - 30 minutes,Not too often,1,3,4,2,Yes,Yes,Yes
 20754,5,10,135.0,2 to 4 days a week,40 - 50 minutes,Sometime,4,2,1,3,Yes,Yes,No
 63233,6,2,182.0,2 to 4 days a week,40 - 50 minutes,Often,1,2,3,4,Yes,Yes,Not sure
 64160,5,9,160.0,5 to 7 days a week,Over an hour,Often,2,1,3,4,Yes,Yes,No
-84843,6,4,215.0,2 to 4 days a week,Over an hour,Always,3,2,1,4,Yes,Yes,Yes
 53665,5,5,128.0,Once a week,Over an hour,Never,3,2,1,4,Yes,Yes,No
 57289,5,5,145.0,Once a week,30 - 40 minutes,Sometime,1,3,2,4,Yes,Yes,No
 71906,5,2,160.0,Once a week,30 - 40 minutes,Not too often,2,1,3,4,Yes,Yes,No
@@ -352,7 +327,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 86978,5,7,145.0,5 to 7 days a week,Over an hour,Not too often,1,3,2,4,Yes,Yes,Yes
 96952,5,2,103.0,I don't regularly exercise,10 - 20 minutes,Never,2,1,3,4,Yes,Yes,No
 79197,5,5,115.0,2 to 4 days a week,30 - 40 minutes,Often,4,2,3,1,Yes,Yes,No
-89596,6,2,215.0,2 to 4 days a week,Over an hour,Often,4,1,2,3,Yes,Yes,Not sure
 84992,5,1,97.0,I don't regularly exercise,40 - 50 minutes,Sometime,1,4,2,3,Yes,Yes,No
 10005,5,5,165.0,Once a week,Over an hour,Not too often,4,2,1,3,Yes,Yes,Yes
 82238,5,10,170.0,Once a week,30 - 40 minutes,Often,1,4,2,3,Yes,Yes,No
@@ -383,7 +357,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 46222,5,9,130.0,I don't regularly exercise,Over an hour,Not too often,2,1,3,4,Yes,No,No
 96692,5,8,122.0,2 to 4 days a week,10 - 20 minutes,Sometime,1,2,4,3,Yes,Yes,No
 83891,5,4,90.0,Once a week,40 - 50 minutes,Not too often,3,1,4,2,Yes,Yes,No
-86652,6,0,377.0,I don't regularly exercise,Over an hour,Sometime,2,1,4,3,Yes,Yes,No
 72945,5,11,185.0,Once a week,40 - 50 minutes,Never,2,1,3,4,Yes,Yes,No
 47183,5,5,160.0,2 to 4 days a week,40 - 50 minutes,Sometime,3,4,1,2,Yes,Yes,Not sure
 94696,6,0,200.0,I don't regularly exercise,20 - 30 minutes,Sometime,2,1,3,4,No,No,No
@@ -396,8 +369,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 40931,5,9,175.0,2 to 4 days a week,Over an hour,Not too often,1,4,2,3,Yes,Yes,No
 00432,5,8,30.0,Once a week,20 - 30 minutes,Sometime,2,1,4,3,Yes,Yes,Yes
 39105,5,1,115.0,I don't regularly exercise,Over an hour,Never,1,2,4,3,Yes,Yes,No
-32913,6,1,225.0,2 to 4 days a week,Over an hour,Sometime,3,4,2,1,Yes,Yes,Yes
-95437,5,10,207.0,2 to 4 days a week,30 - 40 minutes,Sometime,1,2,3,4,No,Yes,No
 77898,5,4,140.0,Once a week,40 - 50 minutes,Sometime,3,2,4,1,Yes,Yes,No
 62387,5,3,150.0,2 to 4 days a week,40 - 50 minutes,Often,4,2,3,1,Yes,Yes,No
 91480,5,6,140.0,Once a week,30 - 40 minutes,Sometime,1,2,3,4,Yes,Yes,No
@@ -418,7 +389,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 95914,5,8,165.0,I don't regularly exercise,Over an hour,Often,3,1,2,4,Yes,Yes,Not sure
 41728,6,0,166.0,5 to 7 days a week,40 - 50 minutes,Not too often,4,3,2,1,Yes,Yes,No
 00616,5,4,166.0,Once a week,40 - 50 minutes,Sometime,1,2,3,4,Yes,Yes,Yes
-97040,6,1,205.0,Once a week,Over an hour,Sometime,2,1,3,4,Yes,Yes,No
 87078,5,5,95.0,I don't regularly exercise,10 - 20 minutes,Never,1,2,3,4,Yes,No,No
 90813,5,2,110.0,I don't regularly exercise,Over an hour,Not too often,2,1,3,4,Yes,Yes,No
 36613,5,9,130.0,2 to 4 days a week,40 - 50 minutes,Not too often,2,1,3,4,Yes,Yes,No
@@ -447,23 +417,19 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 35357,6,0,166.0,5 to 7 days a week,Over an hour,Always,4,3,1,2,Yes,Yes,Yes
 00638,5,2,130.0,Once a week,20 - 30 minutes,Sometime,1,3,2,4,Yes,Yes,No
 75405,6,0,180.0,Once a week,10 - 20 minutes,Often,3,2,1,4,Yes,Yes,No
-50642,6,3,210.0,5 to 7 days a week,Over an hour,Always,3,2,4,1,Yes,No,Yes
 13182,6,0,175.0,I don't regularly exercise,30 - 40 minutes,Not too often,1,2,4,3,Yes,Yes,No
 57032,5,5,150.0,2 to 4 days a week,20 - 30 minutes,Sometime,2,1,3,4,Yes,Yes,No
 76461,5,8,130.0,I don't regularly exercise,20 - 30 minutes,Never,2,4,3,1,Yes,Yes,No
 88348,5,8,130.0,I don't regularly exercise,10 - 20 minutes,Never,2,1,4,3,Yes,Yes,No
-80305,6,0,250.0,I don't regularly exercise,20 - 30 minutes,Not too often,1,2,4,3,Yes,No,No
 45379,5,10,37.0,Once a week,30 - 40 minutes,Often,2,3,1,4,No,Yes,No
 04938,5,8,160.0,I don't regularly exercise,20 - 30 minutes,Often,1,4,2,3,Yes,Yes,No
 34220,5,5,150.0,Once a week,Over an hour,Sometime,1,3,4,2,Yes,Yes,No
 53413,5,9,135.0,Once a week,Over an hour,Often,2,3,4,1,Yes,Yes,No
-05386,5,9,210.0,Once a week,40 - 50 minutes,Often,4,2,1,3,Yes,Yes,No
 37293,5,8,100.0,2 to 4 days a week,20 - 30 minutes,Never,1,2,4,3,Yes,Yes,No
 89383,5,8,180.0,Once a week,20 - 30 minutes,Sometime,4,1,2,3,Yes,Yes,No
 80897,5,11,155.0,I don't regularly exercise,10 - 20 minutes,Never,1,2,3,4,No,Yes,No
 08228,6,0,140.0,2 to 4 days a week,30 - 40 minutes,Sometime,3,4,1,2,No,Yes,No
 18818,5,10,165.0,2 to 4 days a week,30 - 40 minutes,Always,2,3,1,4,Yes,Yes,Yes
-73837,6,0,275.0,I don't regularly exercise,10 - 20 minutes,Always,2,3,4,1,Yes,Yes,No
 70089,5,9,148.0,I don't regularly exercise,10 - 20 minutes,Never,2,1,4,3,No,Yes,No
 34168,5,11,160.0,2 to 4 days a week,30 - 40 minutes,Always,3,2,1,4,Yes,Yes,Yes
 33405,5,10,140.0,I don't regularly exercise,10 - 20 minutes,Always,3,4,2,1,Yes,Yes,No
@@ -473,21 +439,17 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 41957,5,7,115.0,I don't regularly exercise,30 - 40 minutes,Not too often,1,3,2,4,Yes,Yes,No
 40678,5,7,134.0,2 to 4 days a week,Over an hour,Always,3,1,4,2,Yes,Yes,Yes
 83905,5,7,153.0,2 to 4 days a week,40 - 50 minutes,Often,1,4,2,3,Yes,Yes,Yes
-50883,6,4,220.0,I don't regularly exercise,40 - 50 minutes,Often,1,2,3,4,Yes,Yes,Yes
 82731,5,10,155.0,2 to 4 days a week,30 - 40 minutes,Often,3,1,4,2,Yes,Yes,Yes
 85069,5,11,125.0,2 to 4 days a week,40 - 50 minutes,Sometime,2,1,3,4,Yes,Yes,No
 64743,5,6,120.0,I don't regularly exercise,20 - 30 minutes,Sometime,4,2,3,1,Yes,Yes,No
-32428,6,0,217.0,2 to 4 days a week,Over an hour,Never,2,1,4,3,Yes,Yes,No
 00940,5,7,155.0,2 to 4 days a week,40 - 50 minutes,Never,2,3,1,4,Yes,Yes,No
 58236,5,8,200.0,2 to 4 days a week,Over an hour,Not too often,1,2,3,4,Yes,Yes,Not sure
 04514,5,2,110.0,Once a week,20 - 30 minutes,Never,1,3,4,2,Yes,Yes,Not sure
 28360,5,4,130.0,2 to 4 days a week,Over an hour,Not too often,1,3,2,4,Yes,Yes,No
-00502,6,4,220.0,2 to 4 days a week,40 - 50 minutes,Often,3,2,1,4,Yes,Yes,No
 94858,5,6,120.0,I don't regularly exercise,30 - 40 minutes,Never,1,2,3,4,Yes,Yes,Yes
 64539,5,6,130.0,I don't regularly exercise,20 - 30 minutes,Not too often,3,1,2,4,Yes,Yes,No
 32667,5,8,170.0,2 to 4 days a week,Over an hour,Sometime,3,4,1,2,Yes,Yes,No
 22750,5,5,120.0,Once a week,Over an hour,Sometime,4,3,2,1,Yes,Yes,Yes
-50057,5,3,220.0,Once a week,20 - 30 minutes,Sometime,1,2,3,4,Yes,Yes,No
 86145,6,5,190.0,2 to 4 days a week,40 - 50 minutes,Often,1,3,2,4,Yes,Yes,No
 32149,5,7,145.0,5 to 7 days a week,10 - 20 minutes,Never,1,2,4,3,Yes,No,No
 84504,5,10,150.0,Once a week,40 - 50 minutes,Sometime,4,2,3,1,Yes,Yes,Yes
@@ -505,7 +467,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 67772,6,1,170.0,2 to 4 days a week,Over an hour,Often,3,2,1,4,Yes,Yes,No
 91827,5,7,160.0,2 to 4 days a week,Over an hour,Always,2,3,1,4,Yes,Yes,No
 01390,4,3,135.0,Once a week,Over an hour,Sometime,4,3,1,2,Yes,Yes,Yes
-91198,5,10,210.0,I don't regularly exercise,40 - 50 minutes,Not too often,1,3,2,4,Yes,Yes,Yes
 90474,5,7,152.0,5 to 7 days a week,Over an hour,Never,1,3,4,2,Yes,No,No
 62821,6,1,171.0,2 to 4 days a week,Over an hour,Often,3,1,2,4,Yes,Yes,No
 66512,6,2,200.0,Once a week,30 - 40 minutes,Never,1,2,3,4,Yes,Yes,Not sure
@@ -526,7 +487,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 68706,5,3,98.0,2 to 4 days a week,10 - 20 minutes,Sometime,1,3,4,2,Yes,Yes,No
 15941,5,8,142.0,Once a week,Over an hour,Not too often,2,1,4,3,No,Yes,Not sure
 83861,5,3,125.0,Once a week,Over an hour,Not too often,1,2,3,4,Yes,Yes,No
-06922,6,1,205.0,5 to 7 days a week,Over an hour,Never,1,2,4,3,Yes,Yes,Yes
 80009,5,6,70.0,Once a week,10 - 20 minutes,Never,2,3,1,4,Yes,Yes,No
 59353,5,11,180.0,Once a week,40 - 50 minutes,Often,4,3,2,1,Yes,Yes,No
 30502,5,3,105.0,I don't regularly exercise,20 - 30 minutes,Sometime,4,1,2,3,Yes,Yes,No
@@ -549,7 +509,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 62373,5,6,170.0,2 to 4 days a week,40 - 50 minutes,Sometime,1,2,3,4,Yes,Yes,No
 47704,5,5,140.0,2 to 4 days a week,20 - 30 minutes,Often,1,4,2,3,Yes,Yes,No
 86978,5,7,140.0,2 to 4 days a week,Over an hour,Not too often,1,2,3,4,Yes,Yes,Yes
-28133,5,8,225.0,I don't regularly exercise,10 - 20 minutes,Sometime,1,2,4,3,Yes,Yes,Yes
 14115,6,1,176.0,Once a week,30 - 40 minutes,Sometime,4,1,3,2,Yes,Yes,No
 95276,5,6,110.0,I don't regularly exercise,30 - 40 minutes,Not too often,1,3,4,2,Yes,Yes,No
 85108,5,8,168.0,Once a week,Over an hour,Never,2,1,3,4,Yes,Yes,Yes
@@ -560,9 +519,7 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 88002,5,0,103.0,I don't regularly exercise,10 - 20 minutes,Always,1,4,3,2,Yes,Yes,Not sure
 86774,6,0,167.0,5 to 7 days a week,Over an hour,Always,2,3,1,4,Yes,Yes,No
 91171,5,8,140.0,2 to 4 days a week,20 - 30 minutes,Sometime,1,2,3,4,Yes,Yes,No
-96637,6,6,330.0,2 to 4 days a week,20 - 30 minutes,Sometime,4,2,3,1,Yes,Yes,Yes
 04168,5,4,110.0,I don't regularly exercise,20 - 30 minutes,Always,4,1,2,3,Yes,Yes,No
-84631,9,6,130.0,I don't regularly exercise,30 - 40 minutes,Sometime,1,2,3,4,No,Yes,No
 99811,5,6,130.0,2 to 4 days a week,Over an hour,Never,1,2,3,4,Yes,Yes,No
 01453,5,7,145.0,5 to 7 days a week,Over an hour,Often,3,1,2,4,Yes,Yes,No
 98211,5,9,200.0,Once a week,10 - 20 minutes,Often,1,4,3,2,Yes,Yes,No
@@ -572,7 +529,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 53281,5,8,165.0,2 to 4 days a week,40 - 50 minutes,Always,1,2,4,3,Yes,Yes,Yes
 96880,5,9,193.0,2 to 4 days a week,Over an hour,Always,4,2,3,1,Yes,Yes,No
 45500,6,0,186.0,5 to 7 days a week,Over an hour,Sometime,2,3,1,4,Yes,Yes,No
-92343,6,2,210.0,5 to 7 days a week,Over an hour,Always,2,3,1,4,Yes,Yes,Yes
 62548,5,8,165.0,5 to 7 days a week,Over an hour,Always,3,2,1,4,Yes,Yes,No
 53691,5,8,188.0,I don't regularly exercise,30 - 40 minutes,Sometime,1,2,3,4,Yes,Yes,Yes
 88077,5,3,105.0,5 to 7 days a week,Over an hour,Often,4,2,1,3,Yes,Yes,No
@@ -585,7 +541,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 94804,5,0,95.0,I don't regularly exercise,Over an hour,Never,1,2,3,4,Yes,Yes,No
 09684,6,0,195.0,Once a week,30 - 40 minutes,Not too often,1,2,3,4,Yes,Yes,No
 18752,5,9,165.0,5 to 7 days a week,Over an hour,Often,2,3,1,4,Yes,Yes,No
-07683,6,0,220.0,I don't regularly exercise,20 - 30 minutes,Sometime,3,2,1,4,Yes,Yes,Not sure
 31780,5,4,125.0,I don't regularly exercise,40 - 50 minutes,Never,1,2,4,3,Yes,No,Yes
 49331,6,1,180.0,2 to 4 days a week,20 - 30 minutes,Sometime,4,2,3,1,Yes,Yes,No
 75950,5,0,112.0,Once a week,Over an hour,Not too often,3,1,2,4,Yes,Yes,Not sure
@@ -598,8 +553,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 53955,5,0,150.0,Once a week,30 - 40 minutes,Often,4,3,2,1,Yes,Yes,No
 94835,5,6,180.0,I don't regularly exercise,Over an hour,Always,1,2,3,4,Yes,Yes,No
 77177,5,11,140.0,5 to 7 days a week,Over an hour,Never,3,1,2,4,Yes,Yes,No
-77036,5,8,212.0,Once a week,40 - 50 minutes,Sometime,2,3,1,4,Yes,Yes,Not sure
-73018,5,4,215.0,2 to 4 days a week,40 - 50 minutes,Often,3,2,1,4,No,Yes,Yes
 11220,5,7,200.0,2 to 4 days a week,Over an hour,Sometime,3,4,2,1,Yes,Yes,Not sure
 84840,5,6,165.0,Once a week,40 - 50 minutes,Never,1,2,4,3,Yes,Yes,No
 65534,6,8,180.0,2 to 4 days a week,Over an hour,Never,4,1,2,3,Yes,Yes,No
@@ -611,22 +564,16 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 41730,5,5,150.0,2 to 4 days a week,30 - 40 minutes,Not too often,1,2,4,3,Yes,Yes,No
 69751,5,7,148.0,2 to 4 days a week,Over an hour,Often,2,3,4,1,Yes,Yes,No
 49799,5,8,157.0,Once a week,Over an hour,Not too often,1,2,3,4,Yes,Yes,No
-34056,5,10,327.0,I don't regularly exercise,30 - 40 minutes,Not too often,1,2,4,3,No,Yes,No
 11268,5,8,185.0,2 to 4 days a week,30 - 40 minutes,Not too often,4,3,1,2,Yes,Yes,No
 16038,5,2,128.0,I don't regularly exercise,10 - 20 minutes,Always,2,3,1,4,Yes,Yes,Not sure
 08854,5,7,155.0,2 to 4 days a week,20 - 30 minutes,Always,3,1,4,2,Yes,Yes,No
 71460,5,6,106.0,2 to 4 days a week,40 - 50 minutes,Sometime,1,2,3,4,Yes,Yes,Yes
-65887,5,10,225.0,5 to 7 days a week,Over an hour,Sometime,4,3,2,1,Yes,Yes,Yes
-04659,5,7,220.0,I don't regularly exercise,Over an hour,Sometime,1,4,2,3,No,Yes,Yes
 00407,5,3,120.0,Once a week,30 - 40 minutes,Not too often,4,3,1,2,Yes,Yes,No
-84642,9,6,68.0,Once a week,Over an hour,Sometime,1,4,3,2,Yes,Yes,No
 04286,5,8,190.0,I don't regularly exercise,30 - 40 minutes,Not too often,3,1,4,2,Yes,Yes,Yes
-69464,5,11,220.0,5 to 7 days a week,Over an hour,Always,2,1,4,3,Yes,Yes,No
 62167,6,1,174.0,5 to 7 days a week,Over an hour,Not too often,4,3,2,1,Yes,Yes,No
 72505,5,6,106.0,Once a week,30 - 40 minutes,Sometime,1,4,3,2,Yes,Yes,No
 25274,5,2,133.0,Once a week,Over an hour,Often,3,2,1,4,Yes,Yes,No
 72307,5,4,148.0,5 to 7 days a week,Over an hour,Sometime,1,2,3,4,Yes,Yes,No
-70668,5,7,220.0,Once a week,30 - 40 minutes,Never,1,2,4,3,Yes,Yes,No
 86369,5,1,125.0,Once a week,20 - 30 minutes,Sometime,4,3,2,1,Yes,Yes,No
 84105,5,5,116.0,2 to 4 days a week,40 - 50 minutes,Often,1,2,3,4,Yes,Yes,Yes
 34923,4,7,90.0,I don't regularly exercise,10 - 20 minutes,Not too often,4,3,1,2,No,Yes,No
@@ -646,7 +593,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 45805,5,9,155.0,Once a week,40 - 50 minutes,Often,2,3,1,4,Yes,Yes,No
 89852,6,0,154.0,I don't regularly exercise,Over an hour,Sometime,2,1,4,3,Yes,Yes,No
 12929,5,11,165.0,2 to 4 days a week,40 - 50 minutes,Always,1,2,3,4,Yes,Yes,Not sure
-26559,5,11,215.0,2 to 4 days a week,Over an hour,Often,2,4,3,1,Yes,Yes,No
 82473,5,3,104.0,2 to 4 days a week,Over an hour,Often,2,1,3,4,Yes,Yes,Yes
 29137,5,11,150.0,2 to 4 days a week,30 - 40 minutes,Often,2,3,4,1,Yes,Yes,Yes
 72896,5,5,150.0,Once a week,Over an hour,Always,2,3,1,4,Yes,Yes,No
@@ -658,7 +604,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 78010,5,7,137.0,2 to 4 days a week,Over an hour,Never,1,2,3,4,Yes,Yes,Not sure
 81883,5,8,142.0,I don't regularly exercise,20 - 30 minutes,Never,1,2,4,3,Yes,No,Yes
 78023,5,0,115.0,Once a week,30 - 40 minutes,Sometime,3,4,2,1,Yes,Yes,No
-88730,5,7,220.0,2 to 4 days a week,Over an hour,Not too often,4,2,3,1,Yes,Yes,Yes
 77677,5,5,150.0,I don't regularly exercise,10 - 20 minutes,Not too often,1,2,4,3,No,Yes,No
 76459,6,0,126.0,2 to 4 days a week,30 - 40 minutes,Not too often,1,2,3,4,Yes,Yes,No
 67887,5,2,93.0,I don't regularly exercise,10 - 20 minutes,Never,1,2,4,3,No,Yes,No
@@ -668,7 +613,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 35169,5,1,110.0,2 to 4 days a week,Over an hour,Not too often,1,2,4,3,Yes,Yes,No
 49049,5,5,166.0,5 to 7 days a week,Over an hour,Sometime,3,4,2,1,Yes,Yes,No
 54166,6,1,150.0,Once a week,40 - 50 minutes,Never,1,2,4,3,Yes,Yes,No
-74069,6,2,235.0,2 to 4 days a week,30 - 40 minutes,Sometime,2,3,1,4,Yes,Yes,No
 48833,5,2,161.0,2 to 4 days a week,30 - 40 minutes,Always,2,3,1,4,Yes,Yes,Yes
 01002,5,7,145.0,Once a week,20 - 30 minutes,Often,1,2,3,4,Yes,Yes,Yes
 70351,4,9,115.0,Once a week,30 - 40 minutes,Never,2,1,4,3,Yes,Yes,Yes
@@ -686,7 +630,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 66804,6,3,190.0,Once a week,Over an hour,Sometime,1,3,4,2,Yes,Yes,No
 26160,5,10,176.0,2 to 4 days a week,Over an hour,Never,1,2,4,3,Yes,Yes,Yes
 66138,5,2,130.0,2 to 4 days a week,40 - 50 minutes,Always,3,1,2,4,Yes,Yes,Yes
-64631,6,4,215.0,5 to 7 days a week,Over an hour,Never,1,2,4,3,No,Yes,No
 71690,5,5,168.0,2 to 4 days a week,Over an hour,Sometime,2,4,3,1,Yes,Yes,Not sure
 53568,5,6,145.0,I don't regularly exercise,20 - 30 minutes,Sometime,4,3,2,1,Yes,Yes,Not sure
 12083,5,5,120.0,2 to 4 days a week,Over an hour,Always,2,3,4,1,Yes,Yes,No
@@ -694,7 +637,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 27390,5,5,135.0,Once a week,30 - 40 minutes,Never,2,3,1,4,Yes,Yes,Yes
 34067,5,3,120.0,2 to 4 days a week,20 - 30 minutes,Always,1,3,2,4,Yes,Yes,No
 47368,5,5,155.0,Once a week,Over an hour,Not too often,1,2,3,4,Yes,Yes,No
-44817,6,2,230.0,2 to 4 days a week,10 - 20 minutes,Never,4,3,2,1,Yes,Yes,Yes
 95428,4,9,160.0,2 to 4 days a week,30 - 40 minutes,Never,3,1,4,2,Yes,Yes,Yes
 92617,5,2,115.0,I don't regularly exercise,10 - 20 minutes,Sometime,1,2,4,3,Yes,Yes,Not sure
 82828,5,9,145.0,5 to 7 days a week,Over an hour,Never,1,4,3,2,Yes,Yes,No
@@ -710,14 +652,12 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 91902,5,9,152.0,Once a week,40 - 50 minutes,Not too often,1,2,4,3,Yes,Yes,No
 61459,5,8,130.0,I don't regularly exercise,Over an hour,Sometime,1,2,3,4,Yes,Yes,Not sure
 31290,5,3,138.0,2 to 4 days a week,Over an hour,Often,4,1,3,2,Yes,Yes,No
-29571,6,1,215.0,2 to 4 days a week,30 - 40 minutes,Sometime,2,1,3,4,Yes,Yes,No
 31968,6,0,128.0,I don't regularly exercise,30 - 40 minutes,Often,1,3,4,2,Yes,Yes,Yes
 09906,4,10,113.0,I don't regularly exercise,20 - 30 minutes,Never,4,2,1,3,Yes,Yes,No
 40401,5,2,115.0,I don't regularly exercise,10 - 20 minutes,Not too often,3,2,1,4,Yes,Yes,No
 54951,5,6,110.0,2 to 4 days a week,40 - 50 minutes,Sometime,1,2,3,4,Yes,Yes,No
 61454,5,8,145.0,5 to 7 days a week,40 - 50 minutes,Often,3,2,1,4,Yes,Yes,No
 23470,5,3,110.0,2 to 4 days a week,20 - 30 minutes,Sometime,1,4,3,2,Yes,Yes,No
-10851,5,11,220.0,Once a week,20 - 30 minutes,Sometime,1,2,3,4,Yes,Yes,Yes
 16697,5,9,130.0,2 to 4 days a week,Over an hour,Often,1,3,2,4,Yes,Yes,No
 40003,4,11,102.0,I don't regularly exercise,20 - 30 minutes,Never,1,2,3,4,No,No,No
 76423,5,2,124.0,Once a week,30 - 40 minutes,Sometime,1,2,3,4,Yes,Yes,Yes
@@ -726,7 +666,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 67534,6,0,170.0,5 to 7 days a week,Over an hour,Not too often,3,4,2,1,Yes,Yes,No
 32891,6,6,140.0,2 to 4 days a week,40 - 50 minutes,Never,2,1,3,4,Yes,Yes,No
 19299,6,0,192.0,Once a week,Over an hour,Sometime,2,1,3,4,Yes,Yes,No
-89205,5,5,253.0,Once a week,40 - 50 minutes,Not too often,2,1,3,4,Yes,No,No
 82504,6,6,132.0,Once a week,Over an hour,Not too often,1,4,2,3,Yes,Yes,No
 26571,6,2,190.0,2 to 4 days a week,Over an hour,Not too often,4,1,2,3,Yes,Yes,No
 25368,5,9,152.0,Once a week,10 - 20 minutes,Not too often,2,1,3,4,Yes,Yes,No
@@ -742,7 +681,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 50930,5,8,150.0,Once a week,Over an hour,Not too often,2,1,4,3,Yes,Yes,No
 00335,6,0,195.0,2 to 4 days a week,Over an hour,Always,3,2,1,4,Yes,Yes,No
 31594,6,2,175.0,2 to 4 days a week,Over an hour,Not too often,1,2,4,3,Yes,Yes,No
-21829,5,4,245.0,5 to 7 days a week,20 - 30 minutes,Always,3,4,1,2,Yes,Yes,Yes
 62394,6,3,180.0,2 to 4 days a week,30 - 40 minutes,Sometime,2,4,3,1,Yes,Yes,No
 71357,5,3,150.0,I don't regularly exercise,10 - 20 minutes,Sometime,1,2,3,4,Yes,Yes,Yes
 72085,5,9,145.0,Once a week,40 - 50 minutes,Not too often,1,4,3,2,Yes,Yes,No
@@ -783,16 +721,11 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 57859,5,8,160.0,5 to 7 days a week,Over an hour,Not too often,2,1,3,4,Yes,Yes,No
 04625,5,2,103.0,Once a week,40 - 50 minutes,Sometime,1,2,3,4,Yes,Yes,No
 29017,5,4,140.0,2 to 4 days a week,40 - 50 minutes,Often,1,4,2,3,Yes,Yes,No
-32912,6,4,250.0,5 to 7 days a week,Over an hour,Often,4,2,3,1,Yes,Yes,Yes
 13860,5,10,150.0,2 to 4 days a week,40 - 50 minutes,Not too often,1,2,3,4,Yes,Yes,No
 88555,5,8,150.0,I don't regularly exercise,Over an hour,Sometime,1,4,3,2,Yes,Yes,No
 92617,5,3,112.0,I don't regularly exercise,10 - 20 minutes,Sometime,1,3,4,2,Yes,Yes,No
-15387,6,6,230.0,2 to 4 days a week,20 - 30 minutes,Often,1,3,4,2,Yes,Yes,Yes
 35926,5,6,140.0,Once a week,20 - 30 minutes,Always,1,3,2,4,Yes,Yes,No
 03563,5,0,110.0,I don't regularly exercise,10 - 20 minutes,Sometime,1,3,4,2,Yes,Yes,No
-24669,5,8,222.0,I don't regularly exercise,Over an hour,Always,3,1,2,4,Yes,Yes,No
-45379,11,11,45.0,Once a week,20 - 30 minutes,Sometime,3,2,1,4,Yes,Yes,No
-55865,5,10,245.0,2 to 4 days a week,Over an hour,Sometime,1,4,3,2,Yes,Yes,Not sure
 41753,6,1,160.0,5 to 7 days a week,20 - 30 minutes,Not too often,3,4,1,2,Yes,Yes,No
 27698,5,7,169.0,2 to 4 days a week,20 - 30 minutes,Not too often,1,4,2,3,Yes,Yes,No
 49695,5,6,138.0,5 to 7 days a week,Over an hour,Not too often,3,1,2,4,Yes,Yes,No
@@ -814,7 +747,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 28983,5,5,136.0,Once a week,10 - 20 minutes,Not too often,4,2,1,3,Yes,Yes,No
 30981,5,8,142.0,2 to 4 days a week,30 - 40 minutes,Sometime,4,2,3,1,Yes,Yes,No
 64106,5,1,98.0,I don't regularly exercise,20 - 30 minutes,Not too often,1,4,3,2,Yes,Yes,No
-07123,5,11,270.0,2 to 4 days a week,Over an hour,Never,1,2,3,4,Yes,Yes,Yes
 21683,5,3,99.0,2 to 4 days a week,20 - 30 minutes,Sometime,4,1,3,2,Yes,Yes,Not sure
 38085,5,7,123.0,I don't regularly exercise,20 - 30 minutes,Sometime,4,2,3,1,Yes,Yes,No
 54181,5,0,157.0,Once a week,30 - 40 minutes,Always,1,3,2,4,Yes,Yes,No
@@ -826,27 +758,22 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 08271,5,11,200.0,5 to 7 days a week,Over an hour,Often,4,1,2,3,Yes,Yes,No
 1032,5,10,155.0,Once a week,30 - 40 minutes,Sometime,1,2,3,4,Yes,Yes,Yes
 59808,5,2,120.0,2 to 4 days a week,40 - 50 minutes,Sometime,4,1,2,3,Yes,No,No
-65834,5,11,225.0,Once a week,30 - 40 minutes,Sometime,2,1,3,4,No,Yes,Not sure
 67161,5,5,110.0,I don't regularly exercise,30 - 40 minutes,Always,4,3,1,2,Yes,No,No
 23873,5,10,170.0,I don't regularly exercise,10 - 20 minutes,Always,2,4,1,3,Yes,Yes,Yes
 66182,5,8,120.0,Once a week,20 - 30 minutes,Sometime,1,2,4,3,Yes,Yes,No
-63989,5,1,330.0,Once a week,10 - 20 minutes,Sometime,1,2,4,3,No,Yes,No
 03783,5,7,160.0,5 to 7 days a week,Over an hour,Often,3,2,1,4,Yes,Yes,No
 47839,5,8,140.0,2 to 4 days a week,40 - 50 minutes,Never,2,1,3,4,Yes,Yes,No
 83603,5,10,195.0,5 to 7 days a week,Over an hour,Always,2,3,1,4,Yes,Yes,Not sure
 56049,6,1,160.0,5 to 7 days a week,Over an hour,Sometime,4,1,2,3,Yes,Yes,No
-68768,6,4,305.0,I don't regularly exercise,20 - 30 minutes,Often,4,1,2,3,Yes,Yes,Not sure
 96481,5,4,140.0,I don't regularly exercise,30 - 40 minutes,Not too often,1,3,2,4,Yes,Yes,No
 51901,5,2,110.0,Once a week,Over an hour,Sometime,4,3,2,1,Yes,Yes,Yes
 14974,6,3,156.0,5 to 7 days a week,Over an hour,Sometime,1,2,3,4,Yes,Yes,No
 80082,5,2,125.0,I don't regularly exercise,20 - 30 minutes,Never,4,3,1,2,Yes,Yes,No
 27264,5,8,150.0,2 to 4 days a week,Over an hour,Never,4,3,1,2,No,Yes,No
 65057,6,1,176.0,5 to 7 days a week,40 - 50 minutes,Often,2,4,1,3,Yes,Yes,Yes
-16810,7,11,163.0,2 to 4 days a week,30 - 40 minutes,Sometime,1,2,3,4,Yes,Yes,No
 70511,5,4,119.0,I don't regularly exercise,10 - 20 minutes,Sometime,2,4,3,1,Yes,Yes,No
 28953,5,8,167.0,2 to 4 days a week,Over an hour,Sometime,1,2,3,4,Yes,Yes,Not sure
 77374,5,5,135.0,I don't regularly exercise,20 - 30 minutes,Never,1,2,4,3,No,Yes,No
-97408,11,11,187.0,I don't regularly exercise,10 - 20 minutes,Never,4,2,3,1,Yes,Yes,Yes
 81688,5,7,130.0,2 to 4 days a week,Over an hour,Often,4,3,2,1,Yes,Yes,No
 89131,5,7,140.0,I don't regularly exercise,10 - 20 minutes,Often,4,2,1,3,No,Yes,No
 47333,5,9,145.0,I don't regularly exercise,20 - 30 minutes,Sometime,1,2,3,4,Yes,Yes,No
@@ -872,7 +799,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 64751,5,9,170.0,5 to 7 days a week,30 - 40 minutes,Sometime,1,4,3,2,No,Yes,No
 85725,5,2,125.0,Once a week,30 - 40 minutes,Never,3,4,1,2,Yes,No,No
 88119,5,10,185.0,I don't regularly exercise,Over an hour,Often,1,3,2,4,No,Yes,Yes
-71298,5,10,220.0,I don't regularly exercise,10 - 20 minutes,Always,2,1,3,4,No,Yes,Yes
 88555,5,8,160.0,Once a week,Over an hour,Not too often,1,2,3,4,Yes,Yes,No
 86804,6,0,121.0,Once a week,40 - 50 minutes,Sometime,1,3,2,4,Yes,Yes,No
 87675,5,2,130.0,I don't regularly exercise,20 - 30 minutes,Never,1,2,4,3,Yes,Yes,No
@@ -884,7 +810,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 14002,5,6,120.0,I don't regularly exercise,10 - 20 minutes,Sometime,1,3,2,4,Yes,Yes,Yes
 71702,6,1,200.0,Once a week,Over an hour,Not too often,1,3,2,4,Yes,Yes,Yes
 78100,6,1,185.0,2 to 4 days a week,Over an hour,Never,1,2,3,4,Yes,Yes,No
-22286,6,1,207.0,2 to 4 days a week,20 - 30 minutes,Often,2,3,1,4,Yes,Yes,Yes
 59582,5,7,120.0,2 to 4 days a week,Over an hour,Sometime,2,3,1,4,Yes,Yes,No
 00345,5,8,143.0,Once a week,Over an hour,Not too often,1,2,4,3,Yes,Yes,Yes
 85430,5,6,115.0,Once a week,20 - 30 minutes,Never,4,2,1,3,Yes,Yes,No
@@ -899,9 +824,7 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 43934,5,6,125.0,2 to 4 days a week,30 - 40 minutes,Always,1,3,2,4,Yes,Yes,Yes
 25196,5,9,132.0,2 to 4 days a week,40 - 50 minutes,Often,1,3,2,4,Yes,Yes,No
 60159,5,2,115.0,2 to 4 days a week,30 - 40 minutes,Not too often,3,4,1,2,Yes,Yes,No
-27229,5,10,215.0,2 to 4 days a week,40 - 50 minutes,Sometime,1,2,3,4,Yes,Yes,No
 71099,5,11,170.0,2 to 4 days a week,40 - 50 minutes,Often,3,1,2,4,Yes,Yes,No
-03431,5,4,276.0,I don't regularly exercise,40 - 50 minutes,Often,1,2,4,3,Yes,No,No
 04753,5,9,130.0,2 to 4 days a week,30 - 40 minutes,Sometime,1,2,3,4,Yes,Yes,Not sure
 12742,5,11,142.0,2 to 4 days a week,30 - 40 minutes,Often,4,3,1,2,Yes,Yes,No
 75097,5,9,170.0,Once a week,Over an hour,Often,1,2,3,4,Yes,Yes,Not sure
@@ -915,7 +838,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 24283,5,2,115.0,I don't regularly exercise,40 - 50 minutes,Never,2,1,3,4,Yes,Yes,No
 06364,5,1,100.0,Once a week,40 - 50 minutes,Never,4,3,1,2,Yes,No,No
 94292,5,3,127.0,I don't regularly exercise,30 - 40 minutes,Often,3,1,2,4,Yes,Yes,No
-57787,5,9,220.0,5 to 7 days a week,Over an hour,Sometime,1,3,4,2,Yes,Yes,Yes
 02877,5,7,172.0,5 to 7 days a week,Over an hour,Not too often,4,3,1,2,Yes,Yes,Not sure
 92321,5,1,112.0,2 to 4 days a week,Over an hour,Sometime,3,4,1,2,Yes,Yes,Yes
 48081,5,11,150.0,5 to 7 days a week,Over an hour,Not too often,2,1,3,4,Yes,Yes,No
@@ -975,7 +897,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 00035,5,3,177.0,2 to 4 days a week,Over an hour,Often,4,2,3,1,Yes,Yes,Yes
 22523,5,7,140.0,5 to 7 days a week,Over an hour,Sometime,1,2,3,4,Yes,Yes,Yes
 01212,5,8,190.0,5 to 7 days a week,Over an hour,Sometime,1,2,3,4,Yes,Yes,Yes
-97681,5,10,230.0,2 to 4 days a week,20 - 30 minutes,Not too often,2,1,3,4,Yes,Yes,Yes
 59808,5,2,120.0,2 to 4 days a week,Over an hour,Sometime,2,1,4,3,Yes,Yes,No
 28075,5,10,195.0,I don't regularly exercise,40 - 50 minutes,Not too often,4,3,2,1,Yes,Yes,Yes
 11405,6,2,182.0,2 to 4 days a week,Over an hour,Often,3,2,1,4,Yes,Yes,Yes
@@ -985,7 +906,6 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 56049,6,1,162.0,5 to 7 days a week,40 - 50 minutes,Often,3,2,1,4,Yes,Yes,No
 82042,4,11,100.0,I don't regularly exercise,10 - 20 minutes,Sometime,1,2,3,4,Yes,Yes,Not sure
 94292,5,3,128.0,I don't regularly exercise,20 - 30 minutes,Often,3,1,2,4,Yes,Yes,Not sure
-33262,5,11,223.0,2 to 4 days a week,30 - 40 minutes,Never,1,2,3,4,Yes,Yes,Yes
 78408,5,3,132.0,2 to 4 days a week,20 - 30 minutes,Often,2,3,1,4,Yes,Yes,No
 54379,6,1,190.0,I don't regularly exercise,Over an hour,Not too often,2,1,3,4,No,Yes,No
 04141,5,9,170.0,I don't regularly exercise,Over an hour,Often,3,1,2,4,Yes,Yes,No
@@ -998,14 +918,12 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 43909,5,10,145.0,Once a week,20 - 30 minutes,Never,2,1,3,4,Yes,Yes,No
 78637,5,9,180.0,Once a week,30 - 40 minutes,Often,3,2,1,4,Yes,Yes,No
 88824,4,10,100.0,I don't regularly exercise,30 - 40 minutes,Sometime,2,1,4,3,Yes,Yes,No
-88715,6,2,280.0,Once a week,40 - 50 minutes,Never,1,2,4,3,Yes,Yes,No
 52599,5,11,154.0,Once a week,Over an hour,Sometime,1,2,3,4,Yes,Yes,No
 87363,5,2,150.0,2 to 4 days a week,40 - 50 minutes,Sometime,2,4,3,1,Yes,Yes,No
 02637,5,4,175.0,5 to 7 days a week,Over an hour,Sometime,3,1,2,4,Yes,Yes,Yes
 49245,5,6,135.0,Once a week,30 - 40 minutes,Not too often,2,1,4,3,Yes,Yes,Not sure
 00744,6,2,200.0,2 to 4 days a week,40 - 50 minutes,Not too often,4,2,1,3,Yes,Yes,Yes
 39059,5,3,100.0,I don't regularly exercise,30 - 40 minutes,Often,4,3,2,1,Yes,Yes,No
-00099,5,10,215.0,2 to 4 days a week,40 - 50 minutes,Sometime,2,1,3,4,Yes,Yes,Yes
 12227,5,10,135.0,Once a week,20 - 30 minutes,Not too often,1,3,4,2,Yes,Yes,No
 54709,6,1,160.0,2 to 4 days a week,40 - 50 minutes,Sometime,1,3,2,4,Yes,Yes,No
 44606,5,3,110.0,I don't regularly exercise,30 - 40 minutes,Not too often,2,1,3,4,Yes,No,No
@@ -1016,10 +934,8 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 61199,5,10,180.0,2 to 4 days a week,30 - 40 minutes,Sometime,2,3,1,4,Yes,Yes,Yes
 80485,6,0,155.0,5 to 7 days a week,40 - 50 minutes,Not too often,4,2,3,1,Yes,Yes,No
 36005,5,4,123.0,2 to 4 days a week,30 - 40 minutes,Sometime,1,2,3,4,Yes,Yes,No
-07118,10,1,650.0,I don't regularly exercise,Over an hour,Never,2,3,4,1,No,No,Not sure
 11134,5,3,110.0,I don't regularly exercise,10 - 20 minutes,Not too often,2,1,3,4,No,Yes,No
 86264,5,6,174.0,I don't regularly exercise,10 - 20 minutes,Sometime,2,1,4,3,Yes,Yes,No
-94900,5,8,215.0,I don't regularly exercise,Over an hour,Sometime,3,1,2,4,Yes,Yes,Yes
 91693,5,11,160.0,2 to 4 days a week,30 - 40 minutes,Sometime,2,1,3,4,No,Yes,No
 72538,5,1,120.0,Once a week,20 - 30 minutes,Often,2,1,3,4,Yes,Yes,No
 32534,5,5,135.0,I don't regularly exercise,10 - 20 minutes,Not too often,2,1,4,3,Yes,No,No
@@ -1035,72 +951,64 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 62114,5,9,174.0,2 to 4 days a week,Over an hour,Always,3,1,2,4,Yes,Yes,No
 12344,5,9,150.0,2 to 4 days a week,20 - 30 minutes,Sometime,3,1,2,4,Yes,Yes,No
 07163,5,6,135.0,5 to 7 days a week,Over an hour,Sometime,2,1,3,4,Yes,Yes,No
-88637,5,6,240.0,2 to 4 days a week,40 - 50 minutes,Often,1,4,2,3,Yes,Yes,No
 03397,5,2,115.0,Once a week,20 - 30 minutes,Sometime,1,3,2,4,Yes,Yes,No
 58330,5,2,130.0,2 to 4 days a week,40 - 50 minutes,Often,1,3,2,4,Yes,Yes,No
 51046,6,2,194.0,5 to 7 days a week,Over an hour,Often,4,2,1,3,Yes,Yes,No
 19629,5,3,102.0,I don't regularly exercise,20 - 30 minutes,Not too often,1,3,2,4,Yes,Yes,No
-55451,5,10,280.0,I don't regularly exercise,30 - 40 minutes,Not too often,2,1,4,3,Yes,Yes,Yes
 62572,5,7,160.0,2 to 4 days a week,40 - 50 minutes,Often,4,3,2,1,Yes,Yes,Not sure
 20395,5,11,137.0,2 to 4 days a week,Over an hour,Sometime,4,3,2,1,Yes,Yes,No
 86759,5,4,135.0,2 to 4 days a week,Over an hour,Often,2,3,4,1,Yes,Yes,No
 07779,5,10,108.0,2 to 4 days a week,40 - 50 minutes,Sometime,4,1,3,2,Yes,Yes,No
 29640,5,11,148.0,2 to 4 days a week,20 - 30 minutes,Often,1,3,2,4,Yes,Yes,Not sure
-08549,6,0,208.0,Once a week,40 - 50 minutes,Often,1,2,4,3,Yes,Yes,No
 33426,5,4,100.0,2 to 4 days a week,20 - 30 minutes,Often,1,2,4,3,Yes,Yes,Not sure
 47843,5,7,130.0,2 to 4 days a week,Over an hour,Often,2,1,3,4,Yes,Yes,No
 07111,6,0,180.0,5 to 7 days a week,Over an hour,Not too often,2,1,3,4,No,Yes,No
 62493,5,3,130.0,I don't regularly exercise,20 - 30 minutes,Sometime,2,1,4,3,Yes,Yes,No
 18250,5,4,155.0,2 - 4 days a week,30 - 40 minutes,Often,1,3,2,4,Yes,Yes,Yes
 41394,4,11,160.0,I don't regularly exercise,20 - 30 minutes,Sometime,2,1,3,4,Yes,Yes,Not sure
-69673,5,8,170.0,5 - 7 days a week,over an hour,Sometime,1,4,3,2,Yes,Yes,Yes
-16500,6,0,225.0,Once a week,20 - 30 minutes,Always,3,2,1,4,Yes,Yes,No
-49165,5,2,118.0,5 - 7 days a week,over an hour,Sometime,3,2,1,4,Yes,Yes,No
+69673,5,8,170.0,5 - 7 days a week,Over an hour,Sometime,1,4,3,2,Yes,Yes,Yes
+49165,5,2,118.0,5 - 7 days a week,Over an hour,Sometime,3,2,1,4,Yes,Yes,No
 99338,5,7,127.0,5 - 7 days a week,40 - 50 minutes,Always,3,1,4,2,Yes,Yes,Yes
-56360,5,8,205.0,2 - 4 days a week,30 - 40 minutes,Sometime,1,3,2,4,Yes,Yes,Yes
 41211,5,6,129.0,2 - 4 days a week,40 - 50 minutes,Sometime,1,2,4,3,Yes,Yes,No
 54082,5,10,121.4,2 - 4 days a week,30 - 40 minutes,Not too often,4,3,2,1,Yes,No,No
-55177,6,2,165.0,2 - 4 days a week,over an hour,Not too often,1,2,3,4,Yes,Yes,No
+55177,6,2,165.0,2 - 4 days a week,Over an hour,Not too often,1,2,3,4,Yes,Yes,No
 76281,5,7,115.0,Once a week,30 - 40 minutes,Often,4,3,2,1,No,Yes,No
-38680,5,11,170.0,5 - 7 days a week,over an hour,Often,1,2,3,4,Yes,Yes,No
+38680,5,11,170.0,5 - 7 days a week,Over an hour,Often,1,2,3,4,Yes,Yes,No
 49537,5,0,135.0,I don't regularly exercise,40 - 50 minutes,Sometime,1,4,2,3,Yes,Yes,No
-43272,5,10,208.0,2 - 4 days a week,over an hour,Sometime,4,3,2,1,Yes,Yes,Not sure
-34192,5,3,101.0,2 - 4 days a week,over an hour,Always,2,4,3,1,Yes,Yes,No
+34192,5,3,101.0,2 - 4 days a week,Over an hour,Always,2,4,3,1,Yes,Yes,No
 96656,5,5,160.0,5 - 7 days a week,40 - 50 minutes,Often,2,1,3,4,Yes,Yes,No
 53894,5,7,163.0,I don't regularly exercise,30 - 40 minutes,Always,3,2,1,4,Yes,Yes,Yes
 50711,5,7,140.0,I don't regularly exercise,40 - 50 minutes,Never,2,1,4,3,Yes,Yes,No
 62738,6,2,180.0,2 - 4 days a week,40 - 50 minutes,Sometime,3,4,2,1,Yes,Yes,No
-94101,5,2,114.0,I don't regularly exercise,over an hour,Sometime,4,1,2,3,Yes,Yes,No
-56187,5,8,180.0,Once a week,over an hour,Not too often,3,4,1,2,Yes,Yes,Not sure
+94101,5,2,114.0,I don't regularly exercise,Over an hour,Sometime,4,1,2,3,Yes,Yes,No
+56187,5,8,180.0,Once a week,Over an hour,Not too often,3,4,1,2,Yes,Yes,Not sure
 86759,5,4,122.8,2 - 4 days a week,40 - 50 minutes,Sometime,1,2,3,4,Yes,Yes,No
-09127,4,9,90.0,2 - 4 days a week,over an hour,Sometime,3,2,4,1,Yes,Yes,Not sure
+09127,4,9,90.0,2 - 4 days a week,Over an hour,Sometime,3,2,4,1,Yes,Yes,Not sure
 27005,5,7,140.0,Once a week,20 - 30 minutes,Sometime,4,3,2,1,Yes,Yes,Not sure
 22245,4,11,108.9,I don't regularly exercise,10 - 20 minutes,Often,1,2,3,4,Yes,Yes,Not sure
 88507,5,11,174.0,Once a week,40 - 50 minutes,Often,3,2,4,1,Yes,Yes,No
 55708,5,9,145.0,2 - 4 days a week,30 - 40 minutes,Often,4,2,3,1,Yes,Yes,No
 43382,5,4,160.0,Once a week,20 - 30 minutes,Never,1,2,3,4,No,Yes,No
 45541,5,8,160.0,2 - 4 days a week,30 - 40 minutes,Not too often,3,4,2,1,Yes,Yes,Not sure
-10649,5,5,150.0,2 - 4 days a week,over an hour,Often,3,1,4,2,Yes,Yes,No
+10649,5,5,150.0,2 - 4 days a week,Over an hour,Often,3,1,4,2,Yes,Yes,No
 30405,5,7,130.0,2 - 4 days a week,30 - 40 minutes,Sometime,4,3,2,1,Yes,Yes,No
 85824,5,3,136.0,2 - 4 days a week,20 - 30 minutes,Often,2,3,1,4,Yes,Yes,No
 61702,5,1,110.0,I don't regularly exercise,40 - 50 minutes,Often,4,3,2,1,Yes,Yes,No
 61878,5,9,180.0,Once a week,10 - 20 minutes,Sometime,3,1,2,4,Yes,Yes,Not sure
 53894,5,7,163.0,5 - 7 days a week,30 - 40 minutes,Always,3,2,1,4,Yes,Yes,Yes
 34011,5,1,145.0,2 - 4 days a week,40 - 50 minutes,Often,1,3,2,4,Yes,Yes,No
-84055,5,10,171.0,Once a week,over an hour,Always,3,2,1,4,Yes,Yes,No
+84055,5,10,171.0,Once a week,Over an hour,Always,3,2,1,4,Yes,Yes,No
 22667,5,8,168.0,2 - 4 days a week,40 - 50 minutes,Not too often,4,3,2,1,Yes,Yes,Not sure
 44438,5,2,140.0,Once a week,20 - 30 minutes,Not too often,2,1,4,3,No,Yes,No
-64017,5,7,220.0,2 - 4 days a week,30 - 40 minutes,Often,1,3,2,4,Yes,Yes,Yes
 09599,5,5,150.0,2 - 4 days a week,40 - 50 minutes,Always,3,2,4,1,Yes,Yes,Yes
 42876,5,6,130.0,I don't regularly exercise,20 - 30 minutes,Never,1,3,4,2,Yes,Yes,No
-61546,6,3,150.0,2 - 4 days a week,over an hour,Sometime,4,3,1,2,Yes,Yes,Yes
-46327,5,5,185.0,I don't regularly exercise,over an hour,Sometime,3,4,2,1,Yes,Yes,No
-46327,5,5,185.0,I don't regularly exercise,over an hour,Sometime,3,4,2,1,Yes,Yes,No
+61546,6,3,150.0,2 - 4 days a week,Over an hour,Sometime,4,3,1,2,Yes,Yes,Yes
+46327,5,5,185.0,I don't regularly exercise,Over an hour,Sometime,3,4,2,1,Yes,Yes,No
+46327,5,5,185.0,I don't regularly exercise,Over an hour,Sometime,3,4,2,1,Yes,Yes,No
 49163,5,7,170.0,2 - 4 days a week,30 - 40 minutes,Sometime,3,2,1,4,Yes,Yes,No
 88072,6,1,198.0,Once a week,20 - 30 minutes,Often,3,4,2,1,Yes,Yes,Yes
 14864,5,1,130.0,I don't regularly exercise,10 - 20 minutes,Not too often,1,3,4,2,Yes,Yes,No
-68053,5,17,103.0,I don't regularly exercise,30 - 40 minutes,Always,4,3,2,1,Yes,Yes,Not sure
-79589,5,9,188.0,5 - 7 days a week,over an hour,Sometime,1,3,2,4,Yes,Yes,Not sure
+79589,5,9,188.0,5 - 7 days a week,Over an hour,Sometime,1,3,2,4,Yes,Yes,Not sure
 74019,5,9,180.0,Once a week,20 - 30 minutes,Sometime,1,4,3,2,Yes,Yes,No
 59824,5,3,121.2,Once a week,40 - 50 minutes,Often,2,1,3,4,Yes,Yes,No
 38171,5,8,160.0,2 - 4 days a week,40 - 50 minutes,Always,1,2,3,4,Yes,Yes,Not sure
@@ -1109,74 +1017,66 @@ id,Feet,Inches,Weight,Exercise per Week,Exercise Time,Read Label,Taste,Price,Nut
 55222,5,4,138.0,2 - 4 days a week,30 - 40 minutes,Not too often,3,1,2,4,Yes,Yes,No
 59171,5,3,117.0,I don't regularly exercise,40 - 50 minutes,Often,1,4,2,3,Yes,Yes,No
 85031,5,3,120.0,I don't regularly exercise,10 - 20 minutes,Always,2,3,4,1,Yes,Yes,No
-83400,5,9,210.0,I don't regularly exercise,20 - 30 minutes,Not too often,4,1,2,3,Yes,No,Yes
 57060,6,0,180.0,2 - 4 days a week,30 - 40 minutes,Often,3,4,1,2,Yes,Yes,No
-46164,6,0,160.0,5 - 7 days a week,over an hour,Sometime,2,3,1,4,Yes,Yes,Yes
-30288,5,10,170.0,2 - 4 days a week,over an hour,Always,2,3,4,1,Yes,Yes,Yes
+46164,6,0,160.0,5 - 7 days a week,Over an hour,Sometime,2,3,1,4,Yes,Yes,Yes
+30288,5,10,170.0,2 - 4 days a week,Over an hour,Always,2,3,4,1,Yes,Yes,Yes
 60450,5,7,150.0,2 - 4 days a week,40 - 50 minutes,Never,2,3,1,4,Yes,Yes,No
 50711,5,7,135.0,I don't regularly exercise,40 - 50 minutes,Never,1,2,4,3,Yes,Yes,No
 09666,5,3,145.0,Once a week,20 - 30 minutes,Not too often,4,3,2,1,Yes,Yes,No
 63791,5,2,125.0,I don't regularly exercise,20 - 30 minutes,Sometime,4,3,2,1,Yes,Yes,No
 08784,4,10,125.0,I don't regularly exercise,10 - 20 minutes,Not too often,4,1,2,3,No,Yes,No
-29030,5,1,110.0,Once a week,over an hour,Sometime,1,2,4,3,Yes,Yes,Not sure
-27364,5,1,135.0,Once a week,over an hour,Not too often,2,1,4,3,Yes,Yes,Yes
+29030,5,1,110.0,Once a week,Over an hour,Sometime,1,2,4,3,Yes,Yes,Not sure
+27364,5,1,135.0,Once a week,Over an hour,Not too often,2,1,4,3,Yes,Yes,Yes
 53412,6,1,190.0,2 - 4 days a week,30 - 40 minutes,Not too often,4,1,2,3,Yes,Yes,Yes
-38479,5,10,175.0,5 - 7 days a week,over an hour,Often,1,2,3,4,Yes,Yes,No
+38479,5,10,175.0,5 - 7 days a week,Over an hour,Often,1,2,3,4,Yes,Yes,No
 90387,5,11,190.0,I don't regularly exercise,10 - 20 minutes,Often,4,3,1,2,Yes,Yes,No
-94101,5,2,113.0,I don't regularly exercise,over an hour,Not too often,4,1,2,3,Yes,Yes,No
+94101,5,2,113.0,I don't regularly exercise,Over an hour,Not too often,4,1,2,3,Yes,Yes,No
 49402,5,10,185.0,2 - 4 days a week,40 - 50 minutes,Always,1,4,3,2,Yes,Yes,No
-67477,5,10,215.0,Once a week,over an hour,Often,1,3,2,4,Yes,Yes,Not sure
 37000,5,3,135.0,I don't regularly exercise,40 - 50 minutes,Not too often,3,4,2,1,Yes,Yes,Yes
 58301,5,8,145.0,I don't regularly exercise,10 - 20 minutes,Never,1,2,3,4,No,Yes,Not sure
 09084,5,7,120.0,I don't regularly exercise,40 - 50 minutes,Never,4,3,2,1,Yes,Yes,No
-72379,6,7,220.0,I don't regularly exercise,30 - 40 minutes,Often,4,3,2,1,Yes,Yes,Yes
-68518,5,6,200.0,2 - 4 days a week,over an hour,Always,1,3,2,4,Yes,Yes,No
-02341,5,6,175.0,I don't regularly exercise,over an hour,Not too often,1,3,2,4,Yes,No,Yes
-28346,6,0,190.0,5 - 7 days a week,over an hour,Always,2,4,1,3,Yes,Yes,Yes
-14972,5,10,180.0,Once a week,over an hour,Always,1,2,3,4,No,Yes,No
-36927,5,6,155.0,5 - 7 days a week,over an hour,Always,4,3,1,2,Yes,Yes,Yes
+68518,5,6,200.0,2 - 4 days a week,Over an hour,Always,1,3,2,4,Yes,Yes,No
+02341,5,6,175.0,I don't regularly exercise,Over an hour,Not too often,1,3,2,4,Yes,No,Yes
+28346,6,0,190.0,5 - 7 days a week,Over an hour,Always,2,4,1,3,Yes,Yes,Yes
+14972,5,10,180.0,Once a week,Over an hour,Always,1,2,3,4,No,Yes,No
+36927,5,6,155.0,5 - 7 days a week,Over an hour,Always,4,3,1,2,Yes,Yes,Yes
 13637,5,8,180.0,2 - 4 days a week,30 - 40 minutes,Sometime,3,4,2,1,Yes,Yes,Not sure
-10041,6,2,240.0,2 - 4 days a week,30 - 40 minutes,Sometime,4,2,3,1,Yes,Yes,Not sure
-24191,5,9,289.0,I don't regularly exercise,20 - 30 minutes,Often,1,4,3,2,No,No,Yes
-51135,5,8,144.0,2 - 4 days a week,over an hour,Sometime,4,1,3,2,Yes,Yes,Not sure
-51135,5,8,144.0,2 - 4 days a week,over an hour,Sometime,4,1,3,2,Yes,Yes,Not sure
+51135,5,8,144.0,2 - 4 days a week,Over an hour,Sometime,4,1,3,2,Yes,Yes,Not sure
+51135,5,8,144.0,2 - 4 days a week,Over an hour,Sometime,4,1,3,2,Yes,Yes,Not sure
 05702,5,0,110.0,2 - 4 days a week,20 - 30 minutes,Sometime,4,3,2,1,Yes,Yes,No
 08986,4,11,89.0,Once a week,10 - 20 minutes,Not too often,1,2,3,4,Yes,Yes,No
-73514,6,0,203.0,2 - 4 days a week,40 - 50 minutes,Never,1,2,4,3,Yes,Yes,No
-28160,5,5,140.0,2 - 4 days a week,over an hour,Always,3,2,4,1,Yes,Yes,Yes
+28160,5,5,140.0,2 - 4 days a week,Over an hour,Always,3,2,4,1,Yes,Yes,Yes
 01878,5,9,143.3,Once a week,10 - 20 minutes,Never,2,1,3,4,Yes,Yes,No
-12276,5,6,128.0,2 - 4 days a week,over an hour,Never,2,1,3,4,Yes,Yes,No
+12276,5,6,128.0,2 - 4 days a week,Over an hour,Never,2,1,3,4,Yes,Yes,No
 86369,5,1,124.0,Once a week,10 - 20 minutes,Often,2,4,1,3,Yes,Yes,No
 93870,5,8,140.0,2 - 4 days a week,40 - 50 minutes,Often,4,2,3,1,Yes,Yes,No
 08800,5,6,174.0,Once a week,30 - 40 minutes,Often,2,1,3,4,Yes,Yes,Yes
 64706,4,11,115.0,5 - 7 days a week,30 - 40 minutes,Often,4,2,3,1,Yes,Yes,Not sure
 13859,5,6,140.0,2 - 4 days a week,40 - 50 minutes,Always,3,2,1,4,Yes,Yes,No
 13915,5,2,100.0,I don't regularly exercise,10 - 20 minutes,Sometime,2,3,1,4,Yes,Yes,No
-17128,6,2,168.0,2 - 4 days a week,over an hour,Often,3,2,1,4,Yes,Yes,Not sure
+17128,6,2,168.0,2 - 4 days a week,Over an hour,Often,3,2,1,4,Yes,Yes,Not sure
 16317,5,11,180.0,5 - 7 days a week,30 - 40 minutes,Sometime,3,2,1,4,Yes,Yes,No
 27005,5,7,138.0,Once a week,20 - 30 minutes,Not too often,1,2,4,3,No,Yes,Not sure
-90487,5,7,150.0,2 - 4 days a week,over an hour,Never,1,3,4,2,Yes,Yes,No
+90487,5,7,150.0,2 - 4 days a week,Over an hour,Never,1,3,4,2,Yes,Yes,No
 36415,5,10,160.0,I don't regularly exercise,40 - 50 minutes,Not too often,1,3,2,4,Yes,Yes,Not sure
-47635,5,8,160.0,Once a week,over an hour,Often,1,4,2,3,Yes,Yes,No
+47635,5,8,160.0,Once a week,Over an hour,Often,1,4,2,3,Yes,Yes,No
 64396,5,2,110.0,2 - 4 days a week,30 - 40 minutes,Often,3,2,1,4,Yes,Yes,No
-32912,6,4,265.0,5 - 7 days a week,over an hour,Always,2,3,4,1,Yes,Yes,Yes
-36334,6,1,192.0,5 - 7 days a week,over an hour,Not too often,4,3,2,1,Yes,Yes,No
-01993,5,7,143.0,2 - 4 days a week,over an hour,Not too often,2,1,3,4,Yes,Yes,No
+36334,6,1,192.0,5 - 7 days a week,Over an hour,Not too often,4,3,2,1,Yes,Yes,No
+01993,5,7,143.0,2 - 4 days a week,Over an hour,Not too often,2,1,3,4,Yes,Yes,No
 17739,5,5,185.0,5 - 7 days a week,40 - 50 minutes,Sometime,2,1,3,4,Yes,Yes,Yes
 28430,5,4,138.7,I don't regularly exercise,20 - 30 minutes,Never,2,1,4,3,No,No,Yes
 90869,5,5,175.0,2 - 4 days a week,30 - 40 minutes,Sometime,3,2,1,4,Yes,Yes,No
-35693,6,5,215.0,5 - 7 days a week,40 - 50 minutes,Sometime,4,3,2,1,Yes,Yes,No
 10020,5,9,160.0,5 - 7 days a week,30 - 40 minutes,Sometime,1,4,3,2,Yes,Yes,No
 25565,5,1,110.0,I don't regularly exercise,40 - 50 minutes,Always,1,3,2,4,Yes,Yes,No
-10666,5,10,150.0,5 - 7 days a week,over an hour,Not too often,2,3,4,1,Yes,Yes,Yes
+10666,5,10,150.0,5 - 7 days a week,Over an hour,Not too often,2,3,4,1,Yes,Yes,Yes
 64706,4,11,115.0,5 - 7 days a week,40 - 50 minutes,Often,4,2,3,1,Yes,Yes,Not sure
 22164,5,3,145.0,Once a week,20 - 30 minutes,Often,1,3,2,4,Yes,Yes,Not sure
 81958,5,9,180.0,2 - 4 days a week,20 - 30 minutes,Not too often,3,1,2,4,Yes,Yes,No
 63797,5,2,137.0,2 - 4 days a week,40 - 50 minutes,Sometime,1,2,4,3,Yes,Yes,No
-09137,5,7,165.0,5 - 7 days a week,over an hour,Often,4,3,2,1,Yes,Yes,No
+09137,5,7,165.0,5 - 7 days a week,Over an hour,Often,4,3,2,1,Yes,Yes,No
 33252,5,9,153.0,I don't regularly exercise,40 - 50 minutes,Never,1,2,3,4,No,Yes,No
 89827,5,5,130.0,5 - 7 days a week,20 - 30 minutes,Always,1,3,2,4,Yes,Yes,Yes
-98740,6,1,168.0,2 - 4 days a week,over an hour,Sometime,1,3,2,4,Yes,Yes,No
+98740,6,1,168.0,2 - 4 days a week,Over an hour,Sometime,1,3,2,4,Yes,Yes,No
 06370,5,7,147.0,2 - 4 days a week,30 - 40 minutes,Sometime,2,4,3,1,Yes,Yes,Yes
 45057,5,5,145.0,2 - 4 days a week,20 - 30 minutes,Not too often,3,4,2,1,Yes,Yes,No
 76035,5,2,165.0,I don't regularly exercise,40 - 50 minutes,Never,1,4,2,3,Yes,Yes,Not sure

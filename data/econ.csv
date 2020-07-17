@@ -1066,7 +1066,7 @@ id,School,Gender,Race,Local,Full Time,Future,Effectiveness,Online Supplement,Sup
 47843,San Francisco State University,Male,Hispanic,Local Student,Full time,Somewhat helpful,Very effective,Somewhat helpful,Not too difficult
 07111,City College of San Francisco,Male,Asian,Local Student,Part time,Somewhat helpful,Very effective,Somewhat helpful,No problem at all
 62493,San Francisco State University,Female,Asian,Local Student,Full time,Somewhat helpful,Not too effective,Somewhat helpful,Not too difficult
-18250,City College of San Francisco,Female,Other,Local Student,Part-Time Student,Very helpful,Very effective,Very helpful,Not too difficult
+18250,City College of San Francisco,Female,Others,Local Student,Part-Time Student,Very helpful,Very effective,Very helpful,Not too difficult
 41394,City College of San Francisco,Female,Hispanic,Local Student,Part-Time Student,Very helpful,Very effective,Very helpful,No problem at all
 69673,City College of San Francisco,Male,Black or African American,Local Student,Full-Time Student,Very helpful,Somewhat effective,Somewhat helpful,Not too difficult
 16500,City College of San Francisco,Male,Black or African American,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,Somewhat difficult
@@ -1103,7 +1103,7 @@ id,School,Gender,Race,Local,Full Time,Future,Effectiveness,Online Supplement,Sup
 61702,University of San Francisco,Female,Black or African American,Local Student,Full-Time Student,Not related,Somewhat effective,Not too helpful,Somewhat difficult
 61878,San Francisco State University,Male,Hispanic,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,No problem at all
 53894,University of San Francisco,Male,Black or African American,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,No problem at all
-34011,City College of San Francisco,Female,Other,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,No problem at all
+34011,City College of San Francisco,Female,Others,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,No problem at all
 84055,City College of San Francisco,Male,White,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,No problem at all
 22667,San Francisco State University,Male,Asian,Local Student,Full-Time Student,Not related,Somewhat effective,Somewhat helpful,Not too difficult
 44438,University of San Francisco,Female,Asian,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,No problem at all
@@ -1128,10 +1128,10 @@ id,School,Gender,Race,Local,Full Time,Future,Effectiveness,Online Supplement,Sup
 83400,City College of San Francisco,Male,Hispanic,Local Student,Part-Time Student,Very helpful,Very effective,Somewhat helpful,Not too difficult
 57060,San Francisco State University,Male,White,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,No problem at all
 46164,San Francisco State University,Male,Hispanic,Local Student,Full-Time Student,Somewhat helpful,Somewhat effective,Very helpful,No problem at all
-30288,City College of San Francisco,Male,Other,Local Student,Part-Time Student,Somewhat helpful,Very effective,Very helpful,Not too difficult
+30288,City College of San Francisco,Male,Others,Local Student,Part-Time Student,Somewhat helpful,Very effective,Very helpful,Not too difficult
 60450,University of San Francisco,Female,White,International Student,Full-Time Student,Very helpful,Very effective,Very helpful,Not too difficult
 50711,University of San Francisco,Female,White,Local Student,Full-Time Student,Very helpful,Somewhat effective,Very helpful,No problem at all
-09666,San Francisco State University,Female,Other,Local Student,Full-Time Student,Somewhat helpful,Very effective,Somewhat helpful,Not too difficult
+09666,San Francisco State University,Female,Others,Local Student,Full-Time Student,Somewhat helpful,Very effective,Somewhat helpful,Not too difficult
 63791,University of San Francisco,Female,Hispanic,Local Student,Full-Time Student,Very helpful,Somewhat effective,Very helpful,No problem at all
 08784,City College of San Francisco,Female,Asian,Local Student,Part-Time Student,Very helpful,Very effective,Very helpful,Not too difficult
 29030,San Francisco State University,Female,Black or African American,Local Student,Full-Time Student,Somewhat helpful,Somewhat effective,Somewhat helpful,Somewhat difficult
@@ -1148,7 +1148,7 @@ id,School,Gender,Race,Local,Full Time,Future,Effectiveness,Online Supplement,Sup
 68518,City College of San Francisco,Female,Black or African American,Local Student,Full-Time Student,Somewhat helpful,Struggle learning in this class,Not too helpful,No problem at all
 02341,City College of San Francisco,Male,Hispanic,Local Student,Part-Time Student,Somewhat helpful,Somewhat effective,Very helpful,Somewhat difficult
 28346,City College of San Francisco,Male,Black or African American,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,Very difficult
-14972,City College of San Francisco,Male,Other,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,Not too difficult
+14972,City College of San Francisco,Male,Others,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,Not too difficult
 36927,City College of San Francisco,Female,White,Local Student,Part-Time Student,Very helpful,Very effective,Very helpful,No problem at all
 13637,City College of San Francisco,Male,Asian,International Student,Full-Time Student,Very helpful,Very effective,Very helpful,Very difficult
 10041,City College of San Francisco,Male,Hispanic,Local Student,Part-Time Student,Very helpful,Somewhat effective,Very helpful,No problem at all
@@ -1162,13 +1162,13 @@ id,School,Gender,Race,Local,Full Time,Future,Effectiveness,Online Supplement,Sup
 12276,City College of San Francisco,Female,White,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,Somewhat difficult
 86369,City College of San Francisco,Female,Hispanic,International Student,Full-Time Student,Very helpful,Very effective,Very helpful,Somewhat difficult
 86369,City College of San Francisco,Female,Hispanic,International Student,Full-Time Student,Very helpful,Very effective,Very helpful,Somewhat difficult
-93870,City College of San Francisco,Male,Other,Local Student,Part-Time Student,Very helpful,Somewhat effective,Very helpful,Not too difficult
+93870,City College of San Francisco,Male,Others,Local Student,Part-Time Student,Very helpful,Somewhat effective,Very helpful,Not too difficult
 08800,City College of San Francisco,Female,White,International Student,Full-Time Student,Very helpful,Very effective,Very helpful,No problem at all
 64706,City College of San Francisco,Female,Asian,Local Student,Part-Time Student,Very helpful,Somewhat effective,Very helpful,No problem at all
 13859,City College of San Francisco,Male,Asian,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,No problem at all
 13915,City College of San Francisco,Female,Asian,Local Student,Full-Time Student,Somewhat helpful,Very effective,Somewhat helpful,Not too difficult
 17128,San Francisco State University,Male,White,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,Not too difficult
-16317,San Francisco State University,Male,Other,Local Student,Full-Time Student,Somewhat helpful,Very effective,Very helpful,No problem at all
+16317,San Francisco State University,Male,Others,Local Student,Full-Time Student,Somewhat helpful,Very effective,Very helpful,No problem at all
 27005,San Francisco State University,Male,Asian,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,Not too difficult
 90487,City College of San Francisco,Male,Asian,Local Student,Full-Time Student,Somewhat helpful,Very effective,Very helpful,Not too difficult
 36415,City College of San Francisco,Male,Hispanic,Local Student,Part-Time Student,Very helpful,Very effective,Very helpful,Somewhat difficult
@@ -1179,7 +1179,7 @@ id,School,Gender,Race,Local,Full Time,Future,Effectiveness,Online Supplement,Sup
 01993,San Francisco State University,Male,Asian,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,Somewhat difficult
 17739,City College of San Francisco,Female,Hispanic,Local Student,Full-Time Student,Somewhat helpful,Somewhat effective,Very helpful,Not too difficult
 28430,City College of San Francisco,Female,Asian,Local Student,Part-Time Student,Very helpful,Very effective,Very helpful,Somewhat difficult
-90869,City College of San Francisco,Female,Other,Local Student,Part-Time Student,Not related,Very effective,Very helpful,No problem at all
+90869,City College of San Francisco,Female,Others,Local Student,Part-Time Student,Not related,Very effective,Very helpful,No problem at all
 35693,City College of San Francisco,Male,White,Local Student,Part-Time Student,Somewhat helpful,Somewhat effective,Somewhat helpful,No problem at all
 10020,City College of San Francisco,Male,Hispanic,Local Student,Full-Time Student,Very helpful,Very effective,Somewhat helpful,Not too difficult
 01878,City College of San Francisco,Male,Asian,International Student,Full-Time Student,Very helpful,Very effective,Very helpful,Somewhat difficult
@@ -1193,7 +1193,7 @@ id,School,Gender,Race,Local,Full Time,Future,Effectiveness,Online Supplement,Sup
 09137,City College of San Francisco,Male,Asian,Local Student,Full-Time Student,Somewhat helpful,Very effective,Very helpful,Somewhat difficult
 33252,San Francisco State University,Male,Asian,Local Student,Full-Time Student,Very helpful,Not too effective,Somewhat helpful,Not too difficult
 89827,San Francisco State University,Female,White,Local Student,Full-Time Student,Very helpful,Very effective,Somewhat helpful,Not too difficult
-98740,City College of San Francisco,Male,Other,Local Student,Part-Time Student,Very helpful,Very effective,Very helpful,Not too difficult
+98740,City College of San Francisco,Male,Others,Local Student,Part-Time Student,Very helpful,Very effective,Very helpful,Not too difficult
 06370,City College of San Francisco,Female,White,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,Not too difficult
 45057,City College of San Francisco,Male,Hispanic,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,Not too difficult
 76035,City College of San Francisco,Female,Hispanic,Local Student,Full-Time Student,Very helpful,Very effective,Very helpful,Not too difficult
