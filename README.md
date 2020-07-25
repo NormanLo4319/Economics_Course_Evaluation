@@ -25,3 +25,5 @@ The aggregation data set is an inner-joined data set of the Class Performance, E
 
 #### Note:
 The data is collected from students who enrolled and finished the Principles Economics course at SFSU, USF, CCSF, and DVC voluntarily and anonymously. The ID of the record is processed.
+
+Copyright © 2020 Norman Lo
