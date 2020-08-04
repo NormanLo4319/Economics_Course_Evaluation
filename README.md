@@ -1,5 +1,5 @@
 # Economics Course Evaluation
-Evaluating students' performance in the Principles Economics courses at Diablo Valley College (DVC), San Francisco State University (SFSU), University of San Francisco (USF), and City College of San Francisco (CCSF).
+Evaluating students' performance in the Principles Economics courses at Diablo Valley College (DVC), San Francisco State University (SFSU), University of San Francisco (USF), and City College of San Francisco (CCSF) from 2016 Spring to 2020 Spring.
 
 # Objectives:
 The objective for this project is to find any meaningful results from the survey data collected in four higher education institutions (DVC, SFSU, USF, CCSF) located in the Bay Area from the Principles of Economics courses.  By analyzing the given data sets, we would like to answer the following policy questions:
