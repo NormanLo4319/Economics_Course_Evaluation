@@ -24,6 +24,6 @@ This is a voluntary survey, which distributed to students enrolled in either the
 The aggregation data set is an inner-joined data set of the Class Performance, Economics Survey, and Health Survey data. The aggregate data set does not contain all the records from the three data sets. The data has been cleaned and all NAs are removed or replaced.
 
 #### Note:
-The data is collected from students who enrolled and finished the Principles Economics course at SFSU, USF, CCSF, and DVC voluntarily and anonymously. The ID of the record is processed.
+The data is collected from students who enrolled and finished the Principles Economics course at SFSU, USF, CCSF, and DVC voluntarily and anonymously. The ID of the record is modified and all the personal information has been removed.
 
 Copyright © 2020 Norman Lo
