@@ -12,7 +12,7 @@ The objective for this project is to find any meaningful results from the survey
 
 # Data: 
 ### Class Performance Data: 
-The class performance data is the aggregated data from each class taught at different institution between 2016 spring semester and the recent semester.  It records the individual student's final grade, attendence, institution, semester, year, and the digital platform used for the class. This data is will be the key for analyzing students' performance with the given features from other data set.
+The class performance data is the aggregated data from each class taught at different institution between 2016 spring semester and the recent semester.  It recorded the individual student's final grade, attendence, institution, semester, year, and the digital platform used for the class. This data set could be the key for analyzing students' performance with the given features.
 
 ### Economics Course Survey Data:
 This is a voluntary survey, which distributed to students enrolled in either the Principles of Microeonomics and Macroeoncomics classes from 2016 spring until the recent semester.  The survey data contains information about students' status, their options about using the online digital tools, how they think about the course overall, etc.
@@ -24,6 +24,6 @@ This is a voluntary survey, which distributed to students enrolled in either the
 The aggregation data set is an inner-joined data set of the Class Performance, Economics Survey, and Health Survey data. The aggregate data set does not contain all the records from the three data sets. The data has been cleaned and all NAs are removed or replaced.
 
 #### Note:
-The data is collected from students who enrolled and finished the Principles Economics course at SFSU, USF, CCSF, and DVC voluntarily and anonymously. The ID of the record is modified and all the personal information has been removed.
+The data is collected from students who enrolled and finished the Principles Economics course at SFSU, USF, CCSF, and DVC voluntarily and anonymously. The ID of the record is modified and all the personal information has been removed. Only a subset of data is being uploaded on GitHub.  If you are interested to investigate more about this data set, please contact the host of this repository.
 
 Copyright © 2020 Norman Lo
